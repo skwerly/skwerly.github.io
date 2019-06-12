@@ -1,0 +1,123 @@
+#container {
+		width: 1000px;
+		margin: 50px auto auto 50px;
+		
+		}
+body {
+		font-family: Montserrat; helvetica; sans-serif;
+		background-image: background-color: #599194;
+		background-image: url(45-degree-fabric-dark.png);
+		}
+#right-column	{
+		width: 700px;
+		float: right;
+	
+	}
+#banner	{
+		background-color: #009193;
+		width: 700px;
+		height: 150px;
+		
+}	
+#name	{ 
+		font-weight: 700;
+		font-size: 60px;
+		color: #dcefee;
+		padding: 15px 0px 15px 94px;
+
+	}
+.title {
+		font-size: 50px;
+		font-weight: 200;
+		margin-top: -70px;
+		color: #dcefee;
+		padding: 0px 0px 0px 94px;
+		}
+#summary	{
+		font-weight: 400;
+		font-style: italic;
+		margin: 25px 0px 25px 0px;
+		color: #4c4c4c;
+	
+		}
+.section-title	{
+		color: #4c4c4c;
+		font-weight: 500;
+		margin: 0 0 10px 0;
+		}
+.employer	{
+		font-weight: 600;
+		color: #4c4c4c;
+
+		}
+.employer-job-title	{
+		font-weight: 400;
+		font-style: italic;
+		color: #4c4c4c;
+		}
+.date	{
+		float: right;
+		display: inline-block;
+		font-weight: 500;
+		color: #4c4c4c;
+		}
+ul	{
+		padding: 0px 0px 10px 0px;
+		list-style-type: none;
+		font-weight: 300;
+		color: #4c4c4c ;
+
+	}
+#left	{
+		padding: 0px 0px 10px 0px;
+		list-style-type: none;
+		font-weight: 300;
+		font-style: italic;
+		color: #4c4c4c;
+	}
+#left-column {
+		background-color: #dcefee;
+		width: 250px;
+		height: 1115px;
+		float: left;
+		margin: 40px 0 0 0px;
+		padding: 10px 10px 10px 13px;
+		text-align: left;
+	}
+hr	{
+		
+		border-top: 2px solid #009193;
+		margin: 35px 0px 35px 0px;
+		}
+#skwerl	{
+		margin: 20px 0px 70px 88px;
+		color: #4c4c4c;
+	}
+.contact-info	{
+		color: #666;
+		font-weight: 300;
+		margin: 5px auto;
+	}
+#degree	{
+		font-size: 14px;
+		font-weight: 500;
+		font-style: italic;
+		color:#666
+
+}
+#college	{
+		font-size: 14px;
+		font-weight: 200;
+		font-style: italic;
+		color: #666;
+
+}
+#city	{
+		font-weight: 300;
+		font-size: 14px;
+		margin-bottom: 15px;
+		color: #666;
+
+}
+	
+	
