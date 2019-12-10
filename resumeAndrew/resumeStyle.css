@@ -101,6 +101,9 @@ hr	{
 a:link	{
 		text-decoration: none;
 	}
+a:hover	{
+		color: red;
+	}
 .contact-info-email	{
 		color: #666;
 		font-weight: 300;
