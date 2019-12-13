@@ -92,38 +92,39 @@ hr	{
 #skwerl	{
 		margin: 20px 0px 70px 88px;
 		color: #4c4c4c;
-	}
+		}
 .contact-info	{
 		color: #666;
 		font-weight: 300;
 		margin: 5px auto;
-	}
-a:link	{
+		}
+a:link		{
 		text-decoration: none;
-	}
-a:hover	{
-		color: red;
-	}
+		}
+a:visited{
+		color: purple;
+		}
+a:hover{
+		color: #009193;
+		}
 .contact-info-email	{
 		color: #666;
 		font-weight: 300;
 		margin: 5px auto;
-	}
+		}
 #degree	{
 		font-size: 14px;
 		font-weight: 500;
 		font-style: italic;
 		color:#666
-
-}
+		}
 #college	{
 		font-size: 14px;
 		font-weight: 200;
 		font-style: italic;
 		color: #666;
-
-}
-#city	{
+		}
+#city		{
 		font-weight: 300;
 		font-size: 14px;
 		margin-bottom: 15px;
