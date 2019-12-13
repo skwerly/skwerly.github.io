@@ -99,16 +99,16 @@ hr	{
 		margin: 5px auto;
 		}
 a:link		{
+		color: #666;
 		text-decoration: none;
 		}
 a:visited{
-		color: purple;
+		color: #990099;
 		}
 a:hover{
 		color: #009193;
 		}
 .contact-info-email	{
-		color: #666;
 		font-weight: 300;
 		margin: 5px auto;
 		}
